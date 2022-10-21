@@ -18,7 +18,7 @@ Evento promovido pela Rocketseat onde codificamos um formulário usando um Desig
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="formulario" src="formulario.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
