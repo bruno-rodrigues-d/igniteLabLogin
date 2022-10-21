@@ -27,13 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript e JSON
-- [React] (https://pt-br.reactjs.org/)
+- [React](https://pt-br.reactjs.org/)
 - [Node e NPM](https://nodejs.org/)
-- [Figma] (https://figma.com)
-- [Tailwind css] (https://tailwindcss.com/)
+- [Figma](https://figma.com)
+- [Tailwind css](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [Storybook](https://storybook.js.org/)
-- [Radix] (https://www.radix-ui.com/)
+- [Radix](https://www.radix-ui.com/)
 
 ## 💻 Projeto
 
